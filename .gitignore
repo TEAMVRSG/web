@@ -1,0 +1,12 @@
+### WINDOWS ###
+.tmp/
+*recycle/
+_archiv/
+
+### IntelliJ ###
+.iml
+.idea/
+
+### Code::Blocks ###
+.obj
+.exe
